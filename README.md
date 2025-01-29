@@ -46,7 +46,7 @@
  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
- <a href="https://djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/> </a> 
+ <a href="https://djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/2d/5f/71/2d5f715c0d252e7c4e9c3727931bf710.png" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40"/> </a> 
  </p>
