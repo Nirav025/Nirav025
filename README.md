@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 My portfolio website https://ernirav.netlify.app
+- 👨‍💻 My portfolio website https://niravtech.netlify.app/
 
 - 💬 Ask me about **Python, HTML, CSS, SQL**
 
